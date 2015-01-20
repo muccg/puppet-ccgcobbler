@@ -9,4 +9,4 @@ summary      'Puppet module for storing ccg cloud cobbler config'
 description  'CCG Cobbler config'
 
 dependency 'puppetlabs/apache', '>= 0.5.0'
-dependency 'jsosic/cobbler', '>=1.0.0'
+dependency 'jsosic/cobbler', '>= 1.0.0'
