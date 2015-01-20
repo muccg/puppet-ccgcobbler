@@ -8,4 +8,3 @@ source       'git://github.com/muccg/puppet-ccgpuppet'
 summary      'Puppet module for storing ccg cloud cobbler config'
 description  'CCG Cobbler config'
 
-# dependency   'jsosic/cobbler'
